@@ -1,0 +1,1 @@
+A complete copy of the license text is included in the file LICENSE in the BusyBox source code.
